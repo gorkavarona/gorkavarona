@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi guys!! 👋
+
+Here is some interesting information about me:
+
+😄 My name is Gorka
+
+👨‍🎓 and I love learning new things so I studied different courses related to computing...
+   
+- 📲 Higher Technician in Web Application Development 
+- 🖥️ Bachelor of Science (Honours) in Computing
+- 📈 Masters Degree in Big Data & Business Analytics 
+
+📅 Nowadays, I want to continue improving my skills in Big Data so...
+
+✔️ I will be sharing short projects related to this amazing area
+
+Hope you enjoy guys!!! 😄😄😄
 
 <!--
 **gorkavarona/gorkavarona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
