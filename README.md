@@ -1,4 +1,5 @@
-### Hi guys!! 👋
+# Hi everyone!!! 👋
+### Computer engineer specialized in Big Data and Business Analytics
 
 Here is some interesting information about me:
 
