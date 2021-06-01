@@ -5,7 +5,7 @@
 
 Hi all. My name is Gorka and I have been studying for many years in fields related to computing and now it is time to continue growing up creating new projects related to the fascinating world of Big Data. 
 
-## What did I studied?
+## What did I study?
    
 - High degree in Web Application Development 📲 
 
