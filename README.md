@@ -1,15 +1,17 @@
 # Hi everyone!!! 👋
 ### Computer engineer specialized in Big Data and Business Analytics
 
-Here is some interesting information about me:
+![https://github.com/gorkavarona](https://raw.githubusercontent.com/gorkavarona/gorkavarona/master/gorkavarona_header_image.jpg)
 
-😄 My name is Gorka
+Hi all. My name is Gorka and I have been studying for many years in fields related to computing and now it is time to continue growing up creating new projects related to the fascinating world of Big Data. 
 
-👨‍🎓 and I love learning new things so I studied different courses related to computing...
+## What did I studied?
    
-- 📲 Higher Technician in Web Application Development 
-- 🖥️ Bachelor of Science (Honours) in Computing
-- 📈 Masters Degree in Big Data & Business Analytics 
+- High degree in Web Application Development 📲 
+
+- Bachelor of Science (Honours) in Computing 🖥️
+
+- Masters Degree in Big Data & Business Analytics 📈
 
 📅 Nowadays, I want to continue improving my skills in Big Data so...
 
