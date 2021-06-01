@@ -13,9 +13,8 @@ Hi all. My name is Gorka and I have been studying for many years in fields relat
 
 - Masters Degree in Big Data & Business Analytics 📈
 
-📅 Nowadays, I want to continue improving my skills in Big Data so...
+## Skills
 
-✔️ I will be sharing short projects related to this amazing area
 
 Hope you enjoy guys!!! 😄😄😄
 
